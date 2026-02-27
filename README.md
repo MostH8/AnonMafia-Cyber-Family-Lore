@@ -88,7 +88,7 @@ Zionism and unruly treatment of Palestinians. - #OpIsrael
 [+] IncursioSubter *Was arrested along with DerpLaughing for hacking CIA Director John Brennan email in 2016, he also was in the group Crackas Wit Attitudes - https://x.com/IncursioSubter
 [+] AnonRabb *Retired - https://x.com/AnonRabb
 [+] GSA Romeo *Retired
-[+] AnonTerminal *Retired
+[+] AnonTerminal *Retired - https://x.com/AnonTerminal/
 [+] Deployed_Drone *Retired
 [+] BLU3ST4R aka BL4CK_FL4G *Retired - https://x.com/_BL4CK_FL4G_
 [+] SilentX Philippines *Retired
