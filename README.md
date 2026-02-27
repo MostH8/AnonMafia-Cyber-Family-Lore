@@ -85,41 +85,38 @@ Zionism and unruly treatment of Palestinians. - #OpIsrael
 
 
 ```
-(Founder) M4STER T3MPER aka SmurfTroll *Retired after DerpLaughing and
-IncursioSubter got arrested
-(Co-Founder) DerpLaughing *Was arrested for hacking CIA Director John Brennan
-email in 2016, he was also in a group called Crackas Wit Attitudes
-IncursioSubter *Was arrested along with DerpLaughing for hacking CIA Director John
-Brennan email in 2016, he also was in the group Crackas Wit Attitudes
-AnonRabb *Retired
-GSA Romeo *Retired
-AnonTerminal *Retired
-Deployed_Drone *Retired
-BLU3ST4R aka BL4CK_FL4G *Retired
-SilentX Philippines *Retired
-H17@k *Retired
-GSA Loud *Retired
-Oh Hax *Retired
-PRO 666 *Retired
-R3p3aR *Retired
-JibsWiz *Retired
-D34D1Y^GUMMY^B3AR *Retired
-VenuM aka VenOmz * Retired
-Scream4.0.4 *Retired
-Mr.xSaputra^AttackRx *Retired
-1qb41&1vy ch3n *Retired
-koe mala *Retired
-TheKidz404 *Retired
-EML^404 *Retired
-Cysix *Retired
-RedHaxx *Retired
-cyber^polic3^007 *Retired
-Shafrul^Anon *Retired
-etqeteq *Retired
-b3t4.xx. irvin *Retired
-Anons DevilNia *Retired
-Nick TAC007 *Retired
-AMCF IAB *Retired
+[+] (Founder) M4STER T3MPER aka SmurfTroll *Retired after DerpLaughing and IncursioSubter got arrested
+[+] (Co-Founder) DerpLaughing *Was arrested for hacking CIA Director John Brennan email in 2016, he was also in a group called Crackas Wit Attitudes
+[+] IncursioSubter *Was arrested along with DerpLaughing for hacking CIA Director John Brennan email in 2016, he also was in the group Crackas Wit Attitudes
+[+] AnonRabb *Retired
+[+] GSA Romeo *Retired
+[+] AnonTerminal *Retired
+[+] Deployed_Drone *Retired
+[+] BLU3ST4R aka BL4CK_FL4G *Retired
+[+] SilentX Philippines *Retired
+[+] H17@k *Retired
+[+] GSA Loud *Retired
+[+] Oh Hax *Retired
+[+] PRO 666 *Retired
+[+] R3p3aR *Retired
+[+] JibsWiz *Retired
+[+] D34D1Y^GUMMY^B3AR *Retired
+[+] VenuM aka VenOmz * Retired
+[+] Scream4.0.4 *Retired
+[+] Mr.xSaputra^AttackRx *Retired
+[+] 1qb41&1vy ch3n *Retired
+[+] koe mala *Retired
+[+] TheKidz404 *Retired
+[+] EML^404 *Retired
+[+] Cysix *Retired
+[+] RedHaxx *Retired
+[+] cyber^polic3^007 *Retired
+[+] Shafrul^Anon *Retired
+[+] etqeteq *Retired
+[+] b3t4.xx. irvin *Retired
+[+] Anons DevilNia *Retired
+[+] Nick TAC007 *Retired
+[+] AMCF IAB *Retired
 ```
 It was confirmed that while in teenage, M4STER T3MPER and DerpLaughing met on the Xbox Live
 platform, from there, they then form **AnonMafia** together.
