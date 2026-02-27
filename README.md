@@ -1,14 +1,4 @@
-```
-Emblem Associated with AnonMafia
-Cyber Family 2014-present day
-```
-```
-Emblem Associated with AnonMafia
-2014-
-```
-# AnonMafia Cyber Family
-
-## AnonMafia Cyber Family (hacker group)
+# AnonMafia Cyber Family (hacker group)
 
 **AnonMafia Cyber Family** , also known as **AMCF** or
 **AnonMafia** , is an hacktivist collective operating as an
@@ -42,15 +32,14 @@ released his information to the public. Their involvement with this operation pu
 Family** on the map in the Anonymous (hacker group) community.
 
 ```
-Operation Hong Kong 2014 (#OpHongKong) - This was the first operation AnonMafia
-participated in.
-Operation Klu Klux Klan 2014 (#OpKKK or #OpTakkk)
-Operation Ferguson 2014 (#OpFerguson)
-```
 ## Cyber Operations (2014-2016)
 
 
 ```
+Operation Hong Kong 2014 (#OpHongKong) - This was the first operation AnonMafia
+participated in.
+Operation Klu Klux Klan 2014 (#OpKKK or #OpTakkk)
+Operation Ferguson 2014 (#OpFerguson)
 Operation China 2014 (#OpChina)
 Operation PirateBay 2014 (#OpPirateBay)
 Operation Israel 2014 (#OpIsrael or #OpIsrael2014)
