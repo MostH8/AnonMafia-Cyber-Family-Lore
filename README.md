@@ -57,12 +57,10 @@ Family participated in.
 **AnonMafia Cyber Family** released a large amount of doxing information on local law enforcement in
 Missouri, New York City, Ferguson, and Kansas City during Operation Ferguson, Operation Kendrick
 Johnson, and Operation BaltimorePD to the public. As well as launching crucial Denial-of-service attacks
-against government websites as protest against treatment of the Kendrick Johnson case and Freddie Grey.
-
-- #OpFerguson #OpKendrickJohnson #OpBaltimorePD #OpBayOfPigs
+against government websites as protest against treatment of the Kendrick Johnson case and Freddie Grey. - #OpFerguson #OpKendrickJohnson #OpBaltimorePD #OpBayOfPigs
 
 **AnonMafia Cyber Family** targeted the swedish government as payback for Swedish law enforcement
-seizing Pirate Bay servers resulting in the permanent closure of the Pirate Bay platform - #OpPirateBay
+seizing Pirate Bay servers resulting in the permanent closure of the Pirate Bay platform. - #OpPirateBay
 
 **AnonMafia Cyber Family** hacked into and defaced ISIS-linked websites, as well as launched numerous
 Denial-of-service attacks to ISIS-linked Websites and services, and accused cloudflare on multiple
@@ -82,15 +80,14 @@ Dog Meat Festival. - #OpStopYuLin #OpChina
 websites and services, alongside AnonGhost and Middle East Cyber Army (MECA) to protest against
 Zionism and unruly treatment of Palestinians. - #OpIsrael
 
-```
-(Founder) M4STER T3MPER aka SmurfTroll *Retired after DerpLaughing and
-IncursioSubter got arrested
-(Co-Founder) DerpLaughing *Was arrested for hacking CIA Director John Brennan
-```
+
 ## Members (2014-2016 / list confirmed via X posts)
 
 
 ```
+(Founder) M4STER T3MPER aka SmurfTroll *Retired after DerpLaughing and
+IncursioSubter got arrested
+(Co-Founder) DerpLaughing *Was arrested for hacking CIA Director John Brennan
 email in 2016, he was also in a group called Crackas Wit Attitudes
 IncursioSubter *Was arrested along with DerpLaughing for hacking CIA Director John
 Brennan email in 2016, he also was in the group Crackas Wit Attitudes
