@@ -137,11 +137,13 @@ Coding ferocious hacking tools thus bringing complete cyber devastation to their
 governments, other hacking groups (They had quarrels with Lizard Squad and BinarySec (https://x.com/R
 ealBinarySec) at one point), and cyber terrorists organizations.
 
-## X.com handles
+## X.com handles (formerly twitter)
 
 #AnonMafiaCyberFamily
 
 #AMCF
+
+## DDoS Tools (Used by AnonMafia Cyber Family)
 
 AnonMafia Cyber Family DOSER (Modified version of Low Orbit Ion Cannon, resembles AnonGhost
 DDOS) - This tool was created and heavily used for #OpIsrael2015 #OpKKK #OpChina #OpPirateBay
@@ -178,10 +180,7 @@ used for every cyber operation
 Hulk (https://github.com/HkerVit/Hulk-ddos-attack) (a Python, Layer 7 DDoS Tool) - This tool was used
 for every cyber operation
 
-### X.com handles (formerly twitter)
-
-## DDoS Tools (Used by AnonMafia Cyber Family)
-
+## Hacking Tools (Used by AnonMafia Cyber Family)
 
 XerXes (https://github.com/Dev0uss/xerxes/blob/master/xerxes.c) (a C, Layer 4 DDoS Tool that uses
 Tor) - This tool was used for every cyber operation
@@ -232,8 +231,7 @@ Acunetix Web Application Security Scanner (https://www.acunetix.com/) (Web Vulne
 
 Cross Site Scripting (XSS)
 
-## Hacking Tools (Used by AnonMafia Cyber Family)
-
+## Sources (References)
 
 1. [http://rootdown.cocolog-nifty.com/memo/2014/05/anonymous-opchi.html](http://rootdown.cocolog-nifty.com/memo/2014/05/anonymous-opchi.html)
 2. [http://rootdown.cocolog-nifty.com/memo/2014/10/anonymous-ophon.html](http://rootdown.cocolog-nifty.com/memo/2014/10/anonymous-ophon.html)
@@ -279,9 +277,5 @@ associated-booter-websites-offered-ddos
 33. https://x.com/KillingIAB
 34. https://x.com/_BL4CK_FL4G_
 35. https://x.com/RobertaLandrie/status/
-
-## Sources (References)
-
-
 36. https://x.com/xVen0mz
 37. https://x.com/mrgumbys/status/
