@@ -148,8 +148,7 @@ ealBinarySec) at one point), and cyber terrorists organizations.
 AnonMafia Cyber Family DOSER (Modified version of Low Orbit Ion Cannon, resembles AnonGhost
 DDOS) - This tool was created and heavily used for #OpIsrael2015 #OpKKK #OpChina #OpPirateBay
 
-B4CKSELF V6 (https://www.inforge.net/forum/threads/b4ckself-v6-download-open-source-cloudflare-b
-ypass-proxifier3.517639/) (a Python 3 , Layer 7 DDoS Tool that uses proxies for anonymity and
+B4CKSELF V6 (https://www.inforge.net/forum/threads/b4ckself-v6-download-open-source-cloudflare-bypass-proxifier3.517639/) (a Python 3 , Layer 7 DDoS Tool that uses proxies for anonymity and
 Cloudflare scripts to bypass Cloudlflare DDoS Protection) - This tool was heavily used for #OpBEAST
 #OpISIS #OpPirateBay
 
@@ -237,29 +236,21 @@ Cross Site Scripting (XSS)
 2. [http://rootdown.cocolog-nifty.com/memo/2014/10/anonymous-ophon.html](http://rootdown.cocolog-nifty.com/memo/2014/10/anonymous-ophon.html)
 3. https://miutony.blogspot.com/2014/10/analysis-of-cyber-warfare-weapons-on.html
 4. https://sourceforge.net/projects/anonmafiacyberfamilydoser/
-5. https://www.newsletter.co.uk/news/psni-75-of-major-cyber-crimeacross-ni-is-by-children-
-    1097416
-6. https://www.spywareremove.com/anonymous-hackers-plan-attacks-missouri-government-
-    banking-sites.html
-7. https://www.hipforums.com/threads/hacker-collective-anonymous-promises-to-take-down-
-    missouri-government-and-bank-sites.464559/#post-
-8. https://thecryptosphere.com/2014/11/17/opkkk-from-anonymous-defrocks-racists-across-
-    america/
+5. https://www.newsletter.co.uk/news/psni-75-of-major-cyber-crimeacross-ni-is-by-children-1097416
+6. https://www.spywareremove.com/anonymous-hackers-plan-attacks-missouri-government-banking-sites.html
+7. https://www.hipforums.com/threads/hacker-collective-anonymous-promises-to-take-down-missouri-government-and-bank-sites.464559/#post-
+8. https://thecryptosphere.com/2014/11/17/opkkk-from-anonymous-defrocks-racists-across-america/
 9. https://liberalamerica.org/2014/11/15/anonymous-kkk-ferguson/
-10. https://techcrunch.com/2014/12/16/anonymous-allegedly-attacking-swedish-servers-for-
-pirate-bay-shutdown/
+10. https://techcrunch.com/2014/12/16/anonymous-allegedly-attacking-swedish-servers-for-pirate-bay-shutdown/
 11. https://x.com/anonmafiafamily
 12. https://x.com/DerpLaughing
 13. https://x.com/IncursioSubter
 14. https://x.com/AnonRabb
 15. https://anonmafiacyberfamily.wordpress.com/
 16. https://www.linkedin.com/pulse/opnulldenmark-opbeast-darren-desmond
-17. https://www.vice.com/en/article/teenage-hackers-promise-more-hacks-after-alleged-leaders-
-arrest-cracka-cwa/
-18. https://www.eurasiareview.com/24102015-hackers-who-cracked-cia-director-claim-they-
-cant-track-us-down/
-19. https://www.bleepingcomputer.com/news/security/hacker-incursio-gets-two-years-in-prison-
-for-hacking-cia-dhs-doj-and-fbi/
+17. https://www.vice.com/en/article/teenage-hackers-promise-more-hacks-after-alleged-leaders-arrest-cracka-cwa/
+18. https://www.eurasiareview.com/24102015-hackers-who-cracked-cia-director-claim-they-cant-track-us-down/
+19. https://www.bleepingcomputer.com/news/security/hacker-incursio-gets-two-years-in-prison-for-hacking-cia-dhs-doj-and-fbi/
 20. https://www.rt.com/usa/319583-brennan-cia-hacked-wikileaks/
 21. https://vimeo.com/
 22. https://www.kali.org/tools/thc-ssl-dos/
@@ -271,8 +262,7 @@ for-hacking-cia-dhs-doj-and-fbi/
 28. https://www.radware.com/security/ddos-knowledge-center/ddospedia/xerxes/
 29. https://x.com/DerpLaughing/status/
 30. https://www.a10networks.com/blog/doj-charges-six-for-ddos-for-hire-services-kills-48-sites/
-31. https://www.justice.gov/usao-cdca/pr/federal-authorities-seize-13-internet-domains-
-associated-booter-websites-offered-ddos
+31. https://www.justice.gov/usao-cdca/pr/federal-authorities-seize-13-internet-domains-associated-booter-websites-offered-ddos
 32. https://github.com/jjsantanna/booters_ecosystem_analysis/blob/master/booterblacklist.csv
 33. https://x.com/KillingIAB
 34. https://x.com/_BL4CK_FL4G_
