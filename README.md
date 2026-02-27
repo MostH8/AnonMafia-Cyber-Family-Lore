@@ -31,8 +31,6 @@ founded and led by Imperial Wizard _Frank Ancona_ (later murdered in 2017). Who 
 released his information to the public. Their involvement with this operation put **AnonMafia Cyber
 Family** on the map in the Anonymous (hacker group) community.
 
-```
-```
 ## Cyber Operations (2014-2016)
 
 
