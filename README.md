@@ -85,14 +85,14 @@ Zionism and unruly treatment of Palestinians. - #OpIsrael
 
 
 ```
-[+] (Founder) M4STER T3MPER aka SmurfTroll *Retired after DerpLaughing and IncursioSubter got arrested
-[+] (Co-Founder) DerpLaughing *Was arrested for hacking CIA Director John Brennan email in 2016, he was also in a group called Crackas Wit Attitudes
-[+] IncursioSubter *Was arrested along with DerpLaughing for hacking CIA Director John Brennan email in 2016, he also was in the group Crackas Wit Attitudes
-[+] AnonRabb *Retired
+[+] (Founder) M4STER T3MPER aka SmurfTroll *Retired after DerpLaughing and IncursioSubter got arrested - https://x.com/anonmafiafamily
+[+] (Co-Founder) DerpLaughing *Was arrested for hacking CIA Director John Brennan email in 2016, he was also in a group called Crackas Wit Attitudes - https://x.com/DerpLaughing/
+[+] IncursioSubter *Was arrested along with DerpLaughing for hacking CIA Director John Brennan email in 2016, he also was in the group Crackas Wit Attitudes - https://x.com/IncursioSubter
+[+] AnonRabb *Retired - https://x.com/AnonRabb
 [+] GSA Romeo *Retired
 [+] AnonTerminal *Retired
 [+] Deployed_Drone *Retired
-[+] BLU3ST4R aka BL4CK_FL4G *Retired
+[+] BLU3ST4R aka BL4CK_FL4G *Retired - https://x.com/_BL4CK_FL4G_
 [+] SilentX Philippines *Retired
 [+] H17@k *Retired
 [+] GSA Loud *Retired
@@ -101,7 +101,7 @@ Zionism and unruly treatment of Palestinians. - #OpIsrael
 [+] R3p3aR *Retired
 [+] JibsWiz *Retired
 [+] D34D1Y^GUMMY^B3AR *Retired
-[+] VenuM aka VenOmz * Retired
+[+] VenuM aka VenOmz * Retired - https://x.com/xVen0mz
 [+] Scream4.0.4 *Retired
 [+] Mr.xSaputra^AttackRx *Retired
 [+] 1qb41&1vy ch3n *Retired
@@ -116,7 +116,7 @@ Zionism and unruly treatment of Palestinians. - #OpIsrael
 [+] b3t4.xx. irvin *Retired
 [+] Anons DevilNia *Retired
 [+] Nick TAC007 *Retired
-[+] AMCF IAB *Retired
+[+] AMCF IAB *Retired - https://x.com/KillingIAB
 ```
 It was confirmed that while in teenage, M4STER T3MPER and DerpLaughing met on the Xbox Live
 platform, from there, they then form **AnonMafia** together.
@@ -134,8 +134,7 @@ Building botnets, Building web stressors, Doxing rivals and releasing their info
 
 
 Coding ferocious hacking tools thus bringing complete cyber devastation to their enemies. Targeting big
-governments, other hacking groups (They had quarrels with Lizard Squad and BinarySec (https://x.com/R
-ealBinarySec) at one point), and cyber terrorists organizations.
+governments, other hacking groups (They had quarrels with Lizard Squad and BinarySec (https://x.com/RealBinarySec) at one point), and cyber terrorists organizations.
 
 ## X.com handles (formerly twitter)
 
@@ -232,8 +231,8 @@ Cross Site Scripting (XSS)
 
 ## Sources (References)
 
-1. [http://rootdown.cocolog-nifty.com/memo/2014/05/anonymous-opchi.html](http://rootdown.cocolog-nifty.com/memo/2014/05/anonymous-opchi.html)
-2. [http://rootdown.cocolog-nifty.com/memo/2014/10/anonymous-ophon.html](http://rootdown.cocolog-nifty.com/memo/2014/10/anonymous-ophon.html)
+1. http://rootdown.cocolog-nifty.com/memo/2014/05/anonymous-opchi.html
+2. http://rootdown.cocolog-nifty.com/memo/2014/10/anonymous-ophon.html
 3. https://miutony.blogspot.com/2014/10/analysis-of-cyber-warfare-weapons-on.html
 4. https://sourceforge.net/projects/anonmafiacyberfamilydoser/
 5. https://www.newsletter.co.uk/news/psni-75-of-major-cyber-crimeacross-ni-is-by-children-1097416
@@ -242,17 +241,12 @@ Cross Site Scripting (XSS)
 8. https://thecryptosphere.com/2014/11/17/opkkk-from-anonymous-defrocks-racists-across-america/
 9. https://liberalamerica.org/2014/11/15/anonymous-kkk-ferguson/
 10. https://techcrunch.com/2014/12/16/anonymous-allegedly-attacking-swedish-servers-for-pirate-bay-shutdown/
-11. https://x.com/anonmafiafamily
-12. https://x.com/DerpLaughing
-13. https://x.com/IncursioSubter
-14. https://x.com/AnonRabb
 15. https://anonmafiacyberfamily.wordpress.com/
 16. https://www.linkedin.com/pulse/opnulldenmark-opbeast-darren-desmond
 17. https://www.vice.com/en/article/teenage-hackers-promise-more-hacks-after-alleged-leaders-arrest-cracka-cwa/
 18. https://www.eurasiareview.com/24102015-hackers-who-cracked-cia-director-claim-they-cant-track-us-down/
 19. https://www.bleepingcomputer.com/news/security/hacker-incursio-gets-two-years-in-prison-for-hacking-cia-dhs-doj-and-fbi/
 20. https://www.rt.com/usa/319583-brennan-cia-hacked-wikileaks/
-21. https://vimeo.com/
 22. https://www.kali.org/tools/thc-ssl-dos/
 23. https://kb.mazebolt.com/knowledgebase/tors-hammer-attack/
 24. https://www.cloudflare.com/learning/ddos/ddos-attack-tools/slowloris/
@@ -260,12 +254,8 @@ Cross Site Scripting (XSS)
 26. https://medium.com/@dercraig/testing-github-ddos-tools-8-pyloris-d835239c83bf
 27. https://www.radware.com/security/ddos-knowledge-center/ddospedia/hulk/
 28. https://www.radware.com/security/ddos-knowledge-center/ddospedia/xerxes/
-29. https://x.com/DerpLaughing/status/
 30. https://www.a10networks.com/blog/doj-charges-six-for-ddos-for-hire-services-kills-48-sites/
 31. https://www.justice.gov/usao-cdca/pr/federal-authorities-seize-13-internet-domains-associated-booter-websites-offered-ddos
 32. https://github.com/jjsantanna/booters_ecosystem_analysis/blob/master/booterblacklist.csv
-33. https://x.com/KillingIAB
-34. https://x.com/_BL4CK_FL4G_
 35. https://x.com/RobertaLandrie/status/
-36. https://x.com/xVen0mz
 37. https://x.com/mrgumbys/status/
