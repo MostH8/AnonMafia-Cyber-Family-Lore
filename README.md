@@ -159,15 +159,15 @@ target HTTPS/SSL servers and websites) - This tool was heavily used for #OpPirat
 
 Mobhammer (A modified version of Torshammer) - This tool was used for every cyber operation
 
-Slowloris (A Perl script DDoS Tool) - This tool was used for every cyber operation
+Slowloris (https://github.com/abila5h/Cyphon-DoS/blob/master/slowloris.pl) (A Perl script DDoS Tool) - This tool was used for every cyber operation
 
-R U Dead Yet aka R.U.D.Y (A open source, python Layer 7 DDoS Tool) - This tool was used for every
+R U Dead Yet aka R.U.D.Y (https://github.com/darkweak/rudy) (A open source, python Layer 7 DDoS Tool) - This tool was used for every
 cyber operation
 
-High Orbit Ion Cannon (A open source, DDoS tool written in VB and C#) - This tool was heavily used
+High Orbit Ion Cannon (https://sourceforge.net/projects/highorbitioncannon/) (A open source, DDoS tool written in VB and C#) - This tool was heavily used
 for #OpKKK #OpHongKong
 
-Pyloris (a Python DDoS tool that uses Tor and other proxies to for anonymity) - This tool was used for
+Pyloris (https://sourceforge.net/projects/pyloris/) (a Python DDoS tool that uses Tor and other proxies to for anonymity) - This tool was used for
 every cyber operation
 
 GoldenEye (https://www.kali.org/tools/goldeneye/) (A Python 3 , Layer 7 DDoS Tool) - This tool was
