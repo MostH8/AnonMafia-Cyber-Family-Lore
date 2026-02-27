@@ -137,11 +137,11 @@ Coding ferocious hacking tools thus bringing complete cyber devastation to their
 governments, other hacking groups (They had quarrels with Lizard Squad and BinarySec (https://x.com/R
 ealBinarySec) at one point), and cyber terrorists organizations.
 
+## X.com handles
+
 #AnonMafiaCyberFamily
 
 #AMCF
-
-#Anonymous
 
 AnonMafia Cyber Family DOSER (Modified version of Low Orbit Ion Cannon, resembles AnonGhost
 DDOS) - This tool was created and heavily used for #OpIsrael2015 #OpKKK #OpChina #OpPirateBay
