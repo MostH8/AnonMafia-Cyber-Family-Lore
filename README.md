@@ -176,8 +176,6 @@ used for every cyber operation
 Hulk (https://github.com/HkerVit/Hulk-ddos-attack) (a Python, Layer 7 DDoS Tool) - This tool was used
 for every cyber operation
 
-## Hacking Tools (Used by AnonMafia Cyber Family)
-
 XerXes (https://github.com/Dev0uss/xerxes/blob/master/xerxes.c) (a C, Layer 4 DDoS Tool that uses
 Tor) - This tool was used for every cyber operation
 
@@ -189,6 +187,9 @@ anonmafiastresser.com (a HTML/Javascript/PHP website that provided DDoS-for-hire
 public) - This website was owned and operated by **AnonMafia Cyber Family** for a short period to raise
 money, the FBI and other Law Enforcement Agencies formed Operation PowerOFF to eliminate all
 Streesser/Booter websites online.
+
+
+## Hacking Tools (Used by AnonMafia Cyber Family)
 
 SQLmap (https://sqlmap.org/)(a SQL injection tool)
 
