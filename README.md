@@ -142,7 +142,7 @@ governments, other hacking groups (They had quarrels with Lizard Squad and Binar
 
 ## DDoS Tools (Used by AnonMafia Cyber Family)
 
-AnonMafia Cyber Family DOSER (Modified version of Low Orbit Ion Cannon, resembles AnonGhost
+AnonMafia Cyber Family DOSER (https://sourceforge.net/projects/anonmafiacyberfamilydoser/) (Modified version of Low Orbit Ion Cannon, resembles AnonGhost
 DDOS) - This tool was created and heavily used for #OpIsrael2015 #OpKKK #OpChina #OpPirateBay
 
 B4CKSELF V6 (https://www.inforge.net/forum/threads/b4ckself-v6-download-open-source-cloudflare-bypass-proxifier3.517639/) (a Python 3 , Layer 7 DDoS Tool that uses proxies for anonymity and
@@ -188,7 +188,6 @@ public) - This website was owned and operated by **AnonMafia Cyber Family** for 
 money, the FBI and other Law Enforcement Agencies formed Operation PowerOFF to eliminate all
 Streesser/Booter websites online.
 
-
 ## Hacking Tools (Used by AnonMafia Cyber Family)
 
 SQLmap (https://sqlmap.org/)(a SQL injection tool)
@@ -233,28 +232,20 @@ Cross Site Scripting (XSS)
 1. http://rootdown.cocolog-nifty.com/memo/2014/05/anonymous-opchi.html
 2. http://rootdown.cocolog-nifty.com/memo/2014/10/anonymous-ophon.html
 3. https://miutony.blogspot.com/2014/10/analysis-of-cyber-warfare-weapons-on.html
-4. https://sourceforge.net/projects/anonmafiacyberfamilydoser/
-5. https://www.newsletter.co.uk/news/psni-75-of-major-cyber-crimeacross-ni-is-by-children-1097416
-6. https://www.spywareremove.com/anonymous-hackers-plan-attacks-missouri-government-banking-sites.html
-7. https://www.hipforums.com/threads/hacker-collective-anonymous-promises-to-take-down-missouri-government-and-bank-sites.464559/#post-
-8. https://thecryptosphere.com/2014/11/17/opkkk-from-anonymous-defrocks-racists-across-america/
-9. https://liberalamerica.org/2014/11/15/anonymous-kkk-ferguson/
-10. https://techcrunch.com/2014/12/16/anonymous-allegedly-attacking-swedish-servers-for-pirate-bay-shutdown/
-15. https://anonmafiacyberfamily.wordpress.com/
-16. https://www.linkedin.com/pulse/opnulldenmark-opbeast-darren-desmond
-17. https://www.vice.com/en/article/teenage-hackers-promise-more-hacks-after-alleged-leaders-arrest-cracka-cwa/
-18. https://www.eurasiareview.com/24102015-hackers-who-cracked-cia-director-claim-they-cant-track-us-down/
-19. https://www.bleepingcomputer.com/news/security/hacker-incursio-gets-two-years-in-prison-for-hacking-cia-dhs-doj-and-fbi/
-20. https://www.rt.com/usa/319583-brennan-cia-hacked-wikileaks/
-22. https://www.kali.org/tools/thc-ssl-dos/
-23. https://kb.mazebolt.com/knowledgebase/tors-hammer-attack/
-24. https://www.cloudflare.com/learning/ddos/ddos-attack-tools/slowloris/
-25. https://www.cloudflare.com/learning/ddos/ddos-attack-tools/r-u-dead-yet-rudy/
-26. https://medium.com/@dercraig/testing-github-ddos-tools-8-pyloris-d835239c83bf
-27. https://www.radware.com/security/ddos-knowledge-center/ddospedia/hulk/
-28. https://www.radware.com/security/ddos-knowledge-center/ddospedia/xerxes/
-30. https://www.a10networks.com/blog/doj-charges-six-for-ddos-for-hire-services-kills-48-sites/
-31. https://www.justice.gov/usao-cdca/pr/federal-authorities-seize-13-internet-domains-associated-booter-websites-offered-ddos
-32. https://github.com/jjsantanna/booters_ecosystem_analysis/blob/master/booterblacklist.csv
-35. https://x.com/RobertaLandrie/status/
-37. https://x.com/mrgumbys/status/
+4. https://www.newsletter.co.uk/news/psni-75-of-major-cyber-crimeacross-ni-is-by-children-1097416
+5. https://www.spywareremove.com/anonymous-hackers-plan-attacks-missouri-government-banking-sites.html
+6. https://www.hipforums.com/threads/hacker-collective-anonymous-promises-to-take-down-missouri-government-and-bank-sites.464559/#post-
+7. https://thecryptosphere.com/2014/11/17/opkkk-from-anonymous-defrocks-racists-across-america/
+8. https://liberalamerica.org/2014/11/15/anonymous-kkk-ferguson/
+9. https://techcrunch.com/2014/12/16/anonymous-allegedly-attacking-swedish-servers-for-pirate-bay-shutdown/
+10. https://anonmafiacyberfamily.wordpress.com/
+11. https://www.linkedin.com/pulse/opnulldenmark-opbeast-darren-desmond
+12. https://www.vice.com/en/article/teenage-hackers-promise-more-hacks-after-alleged-leaders-arrest-cracka-cwa/
+13. https://www.eurasiareview.com/24102015-hackers-who-cracked-cia-director-claim-they-cant-track-us-down/
+14. https://www.bleepingcomputer.com/news/security/hacker-incursio-gets-two-years-in-prison-for-hacking-cia-dhs-doj-and-fbi/
+15. https://www.rt.com/usa/319583-brennan-cia-hacked-wikileaks/
+16. https://www.a10networks.com/blog/doj-charges-six-for-ddos-for-hire-services-kills-48-sites/
+17. https://www.justice.gov/usao-cdca/pr/federal-authorities-seize-13-internet-domains-associated-booter-websites-offered-ddos
+18. https://github.com/jjsantanna/booters_ecosystem_analysis/blob/master/booterblacklist.csv
+19. https://x.com/RobertaLandrie/status/
+20. https://x.com/mrgumbys/status/
