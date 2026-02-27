@@ -35,8 +35,7 @@ Family** on the map in the Anonymous (hacker group) community.
 
 
 ```
-Operation Hong Kong 2014 (#OpHongKong) - This was the first operation AnonMafia
-participated in.
+Operation Hong Kong 2014 (#OpHongKong) - This was the first operation
 Operation Klu Klux Klan 2014 (#OpKKK or #OpTakkk)
 Operation Ferguson 2014 (#OpFerguson)
 Operation China 2014 (#OpChina)
@@ -51,8 +50,7 @@ Operation Charlie Hebdo 2015 (#OpCharlieHebdo)
 Operation Paris 2015 (#OpParis)
 Operation Bay of Pigs 2015 (#OpBayofPigs)
 Operation BaltimorePD 2015 (#OpBaltimorePD)
-Operation BEAST 2015-2016 (#OpBEAST) - This was the last operation AnonMafia Cyber
-Family participated in.
+Operation BEAST 2015-2016 (#OpBEAST) - This was the last operation
 ```
 **AnonMafia Cyber Family** released a large amount of doxing information on local law enforcement in
 Missouri, New York City, Ferguson, and Kansas City during Operation Ferguson, Operation Kendrick
